@@ -1,7 +1,7 @@
 # sql-challenge
 Employee Database Queries
 
-Did this assignment was to show mastery of SQL as a programming language.<br />
+Did this assignment to show mastery of SQL as a programming language.<br />
 <br />
 First created an ERD diagram to show how employee, title, salary, & department tables linked by primary & foreign keys.<br />
 ![image](https://github.com/KotR9001/sql-challenge/assets/57807780/95f8b7a2-bc1f-4af0-bbcf-8f734e7e4a57)
