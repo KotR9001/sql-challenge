@@ -6,7 +6,10 @@ Did this assignment to show mastery of SQL as a programming language.<br />
 First, created an ERD diagram to show how employee, title, salary, & department tables linked by primary & foreign keys.<br />
 ![image](https://github.com/KotR9001/sql-challenge/assets/57807780/95f8b7a2-bc1f-4af0-bbcf-8f734e7e4a57)
 <br />
+<br />
+<br />
 After that, ran some queries to probe the data and draw conclusions.<br />
+<br />
 ![image](https://github.com/KotR9001/sql-challenge/assets/57807780/8f63f6d6-3f6b-4fc6-8f79-7a083dbd582b)<br />
 ![image](https://github.com/KotR9001/sql-challenge/assets/57807780/8ecb732b-a03e-4f9e-a8c7-b82c538b6dee)<br />
 <br />
